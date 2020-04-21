@@ -6,7 +6,7 @@ Link to Video: https://drive.google.com/file/d/1J0OiBhFwIo1q3iJwTpQnZKO1RPxS_62S
 ![](Photo/3D%20Photo.PNG)
 
 
-LAB 3
+#LAB 3
 Link to Video: https://drive.google.com/file/d/1nOEFgTgvXKrBQCMNNpl4-ztxYTtIvh2T/view?usp=sharing
 Bottom Left Cube: Was the cube set to create in the tutorial, uses the MeshPhongMaterial function 2 color values for viewing and a number to set how shiny the cube will be.
 Upper Left Cube: Is a cube I was to create on my own using the three.js library. This function is the MeshToonMaterial function which with 2 color values for viewing and a number to set how shiny it is. This creates a more matte colored cube to look like something out of a 3D cartoon.
