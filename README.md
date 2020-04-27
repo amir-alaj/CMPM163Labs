@@ -35,4 +35,7 @@ Bottom middle cube: This cube has the same steps applied through the bottom left
 Bottom right cube: This is the same as the bottom left and middle cubes just using a different texture image as well as a different normal map image. All other steps applied are the same.
 
 
-Top right cube: This cube creates it's own shader using a vertex shader file as well as a fragment shader. With the fragment shader the texture2D function allows a texture to be added to it through the uniforms variable where we apply the jpg we want after setting the type to "t."
+Top right cube: This cube creates it's own texture/shader using a vertex shader file as well as a fragment shader. With the fragment shader the texture2D function allows a texture to be added to it through the uniforms variable where we apply the jpg we want after setting the type to "t."
+
+
+Top left cube: This cube creates it's own texture/shader as well, although the vertex and fragment shaders are created within the html file in their own script tags. The major change is through the fragment shader. Vec2 and uv coordinates are applied through powers of 2. Creating a vec4 variable for the entire face of the cube gets initialized through texture2D() where the vUv (vec2) is multiplied by 2 in order to make the texture smaller. Using THREE.js we use the texture with the wrapS for horizontal portions of the cube and wrapT for vertical portions, then repeating it for all areas of the cube. 
