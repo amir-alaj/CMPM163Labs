@@ -19,3 +19,20 @@ Upper Left Cube: Is a cube I was to create on my own using the three.js library.
 Bottom Right Cube: This cube creates it's own shader using a vertex shader file as well as a fragment shader. With the fragment shader the "mix" allows two colors to be fused together to give the interpolated effect.
 
 Upper Right Cube: This cube is incomplete. I did not understand the concept of making my own shader in the given handout enough to make a more unique cube. I attempted to follow a youtube video to make something more special except failed as seen in my code. The line commented out in line 181 is what kept breaking my program. I spent hours on hours trying to fix it, I believe the issue in the vshader1 value that I could not access for some reason in my addAnotherCube function. Although still could not find the absolute solution. If it is possible to go into making your own shader a little more that would be very helpful, I could not figure it out on my own based on copying and pasting old code. 
+
+
+# LAB 4
+
+Link to video: https://drive.google.com/file/d/1dyx204fYg_2OAN_MhidZSpCYdi22lSav/view?usp=sharing
+
+
+Bottom left cube: This cube just has a single texture formed from the loadtexture method with a jpg as an argument. The texture is the applied through the MeshPhongMaterial function giving the variable to the map variable.
+
+
+Bottom middle cube: This cube has the same steps applied through the bottom left cube except with added variables. I call an extra loadtexture method to load a normal map jpg to a normMap variable. This is then used to initialize the map variable when I call the MeshPhongMaterial for the new cube.
+
+
+Bottom right cube: This is the same as the bottom left and middle cubes just using a different texture image as well as a different normal map image. All other steps applied are the same.
+
+
+Top right cube: This cube creates it's own shader using a vertex shader file as well as a fragment shader. With the fragment shader the texture2D function allows a texture to be added to it through the uniforms variable where we apply the jpg we want after setting the type to "t."
