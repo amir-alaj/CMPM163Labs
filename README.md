@@ -41,7 +41,7 @@ Top right cube: This cube creates it's own texture/shader using a vertex shader 
 Top left cube: This cube creates it's own texture/shader as well, although the vertex and fragment shaders are created within the html file in their own script tags. The major change is through the fragment shader. Vec2 and uv coordinates are applied through powers of 2. Creating a vec4 variable for the entire face of the cube gets initialized through texture2D() where the vUv (vec2) is multiplied by 2 in order to make the texture smaller. Using THREE.js we use the texture with the wrapS for horizontal portions of the cube and wrapT for vertical portions, then repeating it for all areas of the cube. 
 
 
-#Lab 5
+# LAB 5
 
 
 Link to Video: https://drive.google.com/file/d/1ZXYipsxq9LRm0UVY66PTuAlajc9PD2jt/view?usp=sharing
