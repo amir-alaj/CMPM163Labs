@@ -47,7 +47,7 @@ Top left cube: This cube creates it's own texture/shader as well, although the v
 Link to Video: https://drive.google.com/file/d/1ZXYipsxq9LRm0UVY66PTuAlajc9PD2jt/view?usp=sharing
 
 
-This was an attempt to see if my laptop could handle Unity. The answer was barely. If you can tell when I click run it takes a second to play the game. I also couldn't save the project without freezing so all I have is the video. 
+This was an attempt to see if my laptop could handle Unity. The answer was barely. If you can tell when I click run it takes a second to play the game. I spent a long time trying to save again and again, but my laptop would freeze at the end every time. I apologize, I hope the video will suffice. 
 
 
 I managed to get the particles down, I did a little less of a glow and made the color through the asset yellow. With the added modifications all I did was change the color of the kart, set to less gravity when you go off a jump, as well as the ramp which was a given asset to in the karts asset folder. I understand my modifications aren't much, I did what I could handle through my laptop.
