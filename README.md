@@ -39,3 +39,15 @@ Top right cube: This cube creates it's own texture/shader using a vertex shader 
 
 
 Top left cube: This cube creates it's own texture/shader as well, although the vertex and fragment shaders are created within the html file in their own script tags. The major change is through the fragment shader. Vec2 and uv coordinates are applied through powers of 2. Creating a vec4 variable for the entire face of the cube gets initialized through texture2D() where the vUv (vec2) is multiplied by 2 in order to make the texture smaller. Using THREE.js we use the texture with the wrapS for horizontal portions of the cube and wrapT for vertical portions, then repeating it for all areas of the cube. 
+
+
+#Lab 5
+
+
+Link to Video: https://drive.google.com/file/d/1ZXYipsxq9LRm0UVY66PTuAlajc9PD2jt/view?usp=sharing
+
+
+This was an attempt to see if my laptop could handle Unity. The answer was barely. If you can tell when I click run it takes a second to play the game. I also couldn't save the project without freezing so all I have is the video. 
+
+
+I managed to get the particles down, I did a little less of a glow and made the color through the asset yellow. With the added modifications all I did was change the color of the kart, set to less gravity when you go off a jump, as well as the ramp which was a given asset to in the karts asset folder. I understand my modifications aren't much, I did what I could handle through my laptop.
