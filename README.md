@@ -51,3 +51,15 @@ This was an attempt to see if my laptop could handle Unity. The answer was barel
 
 
 I managed to get the particles down, I did a little less of a glow and made the color through the asset yellow. With the added modifications all I did was change the color of the kart, set to less gravity when you go off a jump, as well as the ramp which was a given asset to in the karts asset folder. I understand my modifications aren't much, I did what I could handle through my laptop.
+
+
+# LAB 6
+
+
+![](Photo/texture1.PNG)
+
+
+Link to my project: https://www.shadertoy.com/view/tssBzl
+
+
+Link to a cool project: https://www.shadertoy.com/view/4ttSWf
