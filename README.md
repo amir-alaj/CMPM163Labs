@@ -63,3 +63,11 @@ Link to my project: https://www.shadertoy.com/view/tssBzl
 
 
 Link to a cool project: https://www.shadertoy.com/view/4ttSWf
+
+
+# LAB 7
+
+![](Photo/TerrainImage.PNG)
+
+
+Link to water video: https://drive.google.com/file/d/1ef957Sme_pCuvnxzFKqqeaeuGLoZlu27/view?usp=sharing
