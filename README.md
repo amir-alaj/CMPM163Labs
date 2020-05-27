@@ -71,3 +71,16 @@ Link to a cool project: https://www.shadertoy.com/view/4ttSWf
 
 
 Link to water video: https://drive.google.com/file/d/1ef957Sme_pCuvnxzFKqqeaeuGLoZlu27/view?usp=sharing
+
+# LAB 8
+
+
+Partner: Mia Kennedy
+
+
+![](Photo/city.PNG)
+
+
+i. She did part 2
+ii. she said the tutorial was not too hard, but while trying to make the city she wanted to figure out how make her street purposely random in size (having wider and slimmer streets), she said that it took a little while.
+iii. She though the most interesting part of the tutorial was using the perlin noise texture to make the randomness of the buildings look so intentional. 
