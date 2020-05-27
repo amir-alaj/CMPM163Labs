@@ -82,5 +82,5 @@ Partner: Mia Kennedy
 
 
 i. She did part 2
-ii. she said the tutorial was not too hard, but while trying to make the city she wanted to figure out how make her street purposely random in size (having wider and slimmer streets), she said that it took a little while.
-iii. She though the most interesting part of the tutorial was using the perlin noise texture to make the randomness of the buildings look so intentional. 
+ii. She said the tutorial was not too hard, but while trying to make the city she wanted to figure out how make her street purposely random in size (having wider and slimmer streets), she said that it took a little while.
+iii. She thought the most interesting part of the tutorial was using the perlin noise texture to make the randomness of the buildings look so intentional. 
